@@ -13,3 +13,4 @@ Analyse the content of youtube video and predict whether it is safe to watch or 
 
 3.Analyse the youtube content by fetching hate percentage in the comments and captions of the video.
 
+![Screenshot (110)](https://github.com/sivanand866/Video-Analysis-by-hate-speech-detection/assets/84615569/349e8efb-bff3-4deb-80a4-a1816ea3b1e6)
