@@ -9,3 +9,4 @@ Analyse the content of youtube video and predict whether it is safe to watch or 
 
 2.Detecting whether speech provided in any language is clean or hateful.
 
+![Screenshot (113)](https://github.com/sivanand866/Video-Analysis-by-hate-speech-detection/assets/84615569/cfb718ea-f396-4a1c-8afe-699c2e29d949)
